@@ -1,6 +1,3 @@
 bla bla bla bla bla bla
-<<<<<<< HEAD
 blop blop blop blop
-=======
 blap blap balp blap poupidou
->>>>>>> refs/remotes/origin/blap-blap
