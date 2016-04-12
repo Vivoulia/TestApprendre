@@ -12,10 +12,9 @@ def RectDiagonale(a, b):
     diagonale = math.sqrt(a*a + b*b)
     return diagonale
 
-<<<<<<< HEAD
 def RectSePresenter(a, b):
     print("je suis un rectangle de longueur: ", a, "et de largeur: ", b)
-=======
+
 """FORMULE DE GEOMETRIE DE BASE SUR DES CARRES"""
 
 def CarrAir(a):
@@ -27,8 +26,6 @@ def CarrPerimetre(a):
 def CarrDiagonale(a):
     diagonale = math.sqrt(a*a)
     return diagonale
->>>>>>> refs/remotes/origin/carré
-
 
 rectangle = (1, 1)
 a, b = rectangle
