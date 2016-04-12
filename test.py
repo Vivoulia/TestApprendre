@@ -2,20 +2,22 @@ import math
 
 """FORMULE DE GEOMETRIE DE BASE SUR DES RECTANGLE"""
 
-def air(a, b):
+def RectAir(a, b):
     return a*b
 
-def perimetre(a, b):
+def RectPerimetre(a, b):
     return a+b
 
-def diagonale(a, b):
+def RectDiagonale(a, b):
     diagonale = math.sqrt(a*a + b*b)
     return diagonale
+
+
     
 
 rectangle = (1, 1)
 a, b = rectangle
-print(air(a, b))
-print(diagonale(a, b))
+print(RectAir(a, b))
+print(RectDiagonale(a, b))
 
 
