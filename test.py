@@ -13,7 +13,7 @@ def RectDiagonale(a, b):
     return diagonale
 
 
-    
+"""SI TU VOIS CE COM C'EST QUE SA MARCHE"""
 
 rectangle = (1, 1)
 a, b = rectangle
