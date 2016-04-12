@@ -1,2 +1,6 @@
 bla bla bla bla bla bla
+<<<<<<< HEAD
 blap blap balp blap poupidou
+=======
+blop blop blop blop
+>>>>>>> origin/master
